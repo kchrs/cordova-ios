@@ -1,0 +1,53 @@
+{
+  "_from": "git+https://github.com/kchrs/swift-plugin.git",
+  "_id": "Ionplug@0.0.1",
+  "_inBundle": false,
+  "_integrity": "",
+  "_location": "/Ionplug",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "https://github.com/kchrs/swift-plugin.git",
+    "rawSpec": "https://github.com/kchrs/swift-plugin.git",
+    "saveSpec": "git+https://github.com/kchrs/swift-plugin.git",
+    "fetchSpec": "https://github.com/kchrs/swift-plugin.git",
+    "gitCommittish": null
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "git+https://github.com/kchrs/swift-plugin.git#8fd36f53f38bd8cfce9260e9efd6b2988b03195c",
+  "_spec": "https://github.com/kchrs/swift-plugin.git",
+  "_where": "/Users/kchristopoulos/cordova/plugin-test",
+  "author": {
+    "name": "kchrs"
+  },
+  "bundleDependencies": false,
+  "cordova": {
+    "id": "ionplug",
+    "platforms": [
+      "iOS"
+    ]
+  },
+  "deprecated": false,
+  "description": ">",
+  "keywords": [
+    "Ionplug",
+    "ionic-Ionplug",
+    "cordova Ionplug",
+    "cordova",
+    "phonegap",
+    "ecosystem:cordova",
+    "cordova-ios",
+    "ios",
+    "ionic"
+  ],
+  "license": "MIT",
+  "name": "Ionplug",
+  "repository": {
+    "type": "git",
+    "url": "REPO"
+  },
+  "version": "0.0.1"
+}
